@@ -1,7 +1,7 @@
 # AnalogSaat
 
 Öncelikle merhabalar,  
-Bu yazmış olduğum kod, basit bir analog saat uygulamasıdır.  
+Bu yazmış olduğum kod, Python'ın Turtle kütüphanesiyle yapılan basit bir analog saat uygulamasıdır.  
 İlk olarak saatimizin çerçevesini, çizgilerini, sayılarını ve ibrelerini tasarladım.  
 Bu tasarımları saatCiz adlı fonksiyonumuzun içerisine aldım.  
 Bu sayede verdiğimiz çapa göre saatin boyutlarını da değiştirebiliyorum.  
